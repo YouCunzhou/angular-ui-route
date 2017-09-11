@@ -1,3 +1,3 @@
 # angularSeed
-angular+bootstrap种子项目
+angular+bootstrap
 test
